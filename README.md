@@ -8,7 +8,7 @@ Simply open up quiz.ipynb and run the code blocks one-by-one
 
 You only need to generate the model once, as it gets stored to the training_checkpoints folder.
 
-A weights file with epoch=3 and epoch=10 is provided for convenience.
+A pre-generated weights file with epoch=3 and epoch=10 is provided for convenience.
 
 ## Samples generated with Epoch=10
 
